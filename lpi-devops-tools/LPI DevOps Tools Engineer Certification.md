@@ -34,6 +34,10 @@ unzip packer_1.6.5_linux_amd64.zip
 mv packer /usr/local/bin/
 rm -f packer_1.6.5_linux_amd64.zip
 
+# Configurar git
+git config --global user.namem "Roque Rivera"
+git config --global user.email roque.rivera@gmail.com
+
 
 ```
 
