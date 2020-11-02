@@ -29,4 +29,9 @@ packer validate
 # Contruye la imagen
 packer build -var 'variable'
 
+## Cloud-init
+https://cloudinit.readthedocs.io/en/latest/index.html
+
+cloud-init init
+
 
