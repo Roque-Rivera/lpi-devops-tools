@@ -1,5 +1,5 @@
 # General
-.vagrant/
+*.vagrant/
 
 # Log files (if you are creating logs in debug mode, uncomment this)
 *.log
@@ -12,3 +12,4 @@ crash.log
 
 # For built boxes
 *.box
+suite-crm/suitecrm.tar.gz
